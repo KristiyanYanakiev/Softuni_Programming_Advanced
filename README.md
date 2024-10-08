@@ -3,11 +3,12 @@ The project contains the code I have written during my studies in Softuni's cour
 
 Topics the course covered:
 
-• Stacks, Queues, Tuples and Sets • Multidimensional Lists
-• Functions Advanced
-• Error Handling
-• File Handling
-• Modules
-• Algorithms Introduction
+- Stacks, Queues, Tuples and Sets
+- Multidimensional Lists
+- Functions Advanced
+- Error Handling
+- File Handling
+- Modules
+- Algorithms Introduction
 
 Website https://softuni.bg
